@@ -4,7 +4,7 @@ import React from 'react'
 const Aboutpage = () => {
   return (
     <div className='text-3xl'>
-      <h1 className="">Hello Nischal this is about</h1>
+      <h1 className="">Hello Nischal this is about page</h1>
       <Link href="/" className='text-3xl'>Go to Home</Link>
     </div>
   )
