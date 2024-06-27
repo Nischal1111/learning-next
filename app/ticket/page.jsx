@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Query = () => {
+const page = () => {
   return (
     <div>
-      I am Query.
+      Tickets
     </div>
   )
 }
 
-export default Query
+export default page
